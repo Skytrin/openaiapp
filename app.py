@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://cdn2.warcraftpets.com/images/pets/big/alarm-o-bot.vb4c8579ce614c127f0e94fb84fe5d32101ecf426.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
